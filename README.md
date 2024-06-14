@@ -1,1 +1,1 @@
-# sandbox
+# Espaço para projetos gerais
